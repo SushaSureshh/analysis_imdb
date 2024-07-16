@@ -1,2 +1,1 @@
-# lemay_ai
-lemay_ai
+Analysis on the IMDB dataset
